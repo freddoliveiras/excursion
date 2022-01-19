@@ -24,7 +24,7 @@ h2{
     font-size: 21px;
 }
 
-a {
+a{
     color: aquamarine;
     font-size: 16px;
     text-align: center;
@@ -34,4 +34,11 @@ a {
 video {
     display: block;
     margin: 0 auto;
+}
+
+#logo{
+    color: white;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
 }
